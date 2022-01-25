@@ -1,0 +1,25 @@
+
+.backgroundImage {
+    display: block;
+    /* background-image: url("../public/lily.jpg"); */
+    opacity: 0.6;
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.backgroundColour{
+  background-color: rgb(78, 169, 88);
+  color: #fff;
+}
+
+.logoText{
+
+}
+
+.jumboTronText{
+
+}
